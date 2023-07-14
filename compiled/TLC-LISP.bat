@@ -1,0 +1,1 @@
+java -jar ./src/TLC-LISP.standalone.jar
